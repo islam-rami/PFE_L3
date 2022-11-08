@@ -1,0 +1,104 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+
+#button
+{
+	/*-fx-background-image : url("logousthb.png");*/
+	-fx-background-color : #FF00FF;
+    
+}
+
+
+
+
+.button2{
+		-fx-background-color : #4169E1;
+	-fx-background-radius : 3;
+	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+
+.button2:hover
+{
+	-fx-background-color : #483D8B;
+	-fx-background-radius : 3;
+	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+
+
+.oo{
+	-fx-background-color: radial-gradient(center 50px 50px, radius 100px, red, #000080	);
+}
+.btn2{
+	-fx-background-color: linear-gradient(to right, #0d47a1 , #5c6bc0	);
+}
+
+
+.btn2:hover
+{
+	-fx-background-color : radial-gradient(center 95% 50%, radius 95%, #4527a0, #000080, #0000CD);
+	-fx-background-radius : 20;
+	
+}
+
+
+.btn2:pressed
+{
+	-fx-background-color : radial-gradient(center 95% 50%, radius 95%, #4527a0, #000080, #0000CD);
+	-fx-background-radius : 20;
+	
+}
+
+
+
+.btn4{
+	-fx-background-color: linear-gradient(to right, #01579b , #0288d1	);
+}
+
+
+.btn4:hover
+{
+	-fx-background-color : radial-gradient(center 95% 50%, radius 95%, #01579b, #000080, #0288d1);
+	-fx-background-radius : 20;
+	
+}
+
+
+.btn4:pressed
+{
+	-fx-background-color : radial-gradient(center 95% 50%, radius 95%, #01579b, #000080, #0288d1);
+	-fx-background-radius : 20;
+	
+}
+
+.pan:hover{
+	-fx-background-color:#bbdefb ;
+	-fx-background-radius:20;
+}
+
+
+
+.btn3{
+	-fx-background-color: radial-gradient(center 95% 50%, radius 95%, red, #000080, #0000CD);
+}
+
+
+.cont{
+	-fx-background-image :    url("n.jpg")      ;
+	-fx-background-color:transparent;
+	/*-fx-border-image-repeat: stretch; */
+	
+	-fx-background-position: left top, center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover;
+}
+
+
+
+
+
+
+
+

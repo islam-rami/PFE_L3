@@ -1,0 +1,29 @@
+{
+	"test_construireLIne":[  {"value":[ ["Section", "Module", "Cours", "TD1", "TD2"],
+	                                      ["L1-S2-1", "ALG02 : Programmation et Structures\n de DonnÃ©es", "GUERAICHI", "GUERAICHI","GUERAICHI"]
+	                              ],
+                              "result":{"Section":"L1-S2-1","Module":"ALG02 : Programmation et Structures\n de DonnÃ©es","Cours":"GUERAICHI","TD1":"GUERAICHI","TD2":"GUERAICHI"}  								  
+	                          },
+							  { "value":[["RAMI","KHOUDJA"],["islam","safaa"]
+							             ],
+								"result":{"RAMI":"islam","KHOUDJA":"safaa"}	 
+								         
+							  }							  
+	                      ],
+						  
+						  
+	"test_transformer":  [  { "value":"csv\\test2.csv",
+	                             "result":[{"Section": "L1", "Modul": "ALGO02", "Cour": "GUERAICHI", "TD": "GUERAICHI", "TP": "FEREDJ"},
+    {"Section": "L2", "Modul": "POO", "Cour": "BOUKHDOUMA", "TD": "BOUKHDOUMA", "TP": "BOUZIAN"},
+    {"Section": "L3", "Modul": "PROG.WEB", "Cour": "BENKAOUHA", "TD": "AIDIR", "TP": "BENKHAOUHA"},
+    {"Section": "M1", "Modul": "ARBD", "Cour": "ALIMAZIGHI", "TD": "KERKAD", "TP": "KERKAD"}
+    ]
+	                             }
+	
+	                     ]
+     
+						  
+						  
+						  
+}
+

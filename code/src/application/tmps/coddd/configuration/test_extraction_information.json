@@ -1,0 +1,93 @@
+{
+	"test_dic_prof":[{  "value":{"SeCtion": "L1", "ModulE": "ALGO02", "Cour": "GUERAICHI", "TD1": "GUERAICHI", "TD2": "GUERAICHI","TP": "FEREDJ"} , 
+                         "result":{"GUERAICHI": {"L1": {"ALGO02": {"COUR": 1, "TD": 2, "TP": 0}}}, "FEREDJ": {"L1": {"ALGO02": {"COUR": 0, "TD": 0, "TP": 1}}}}
+	                  }
+	
+	
+	                  ],
+	
+	"test_mise_ajour":[ { "dic": {   "GUERAICHI": {"L1-S2-1": {"ALG02": {"COUR": 1, "TD": 4, "TP": 0}}},
+                                     "FEREDJ": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}},
+                                     "L2-ACAD-S4-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 0}}},
+                                       "IBELAIDEN": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}}
+                                 },
+	                      "value":{"BOUCHEKIR Redouane": {"L1-S2-7": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}}
+						          }  ,      
+		                  "result": {"GUERAICHI": {"L1-S2-1": {"ALG02": {"COUR": 1, "TD": 4, "TP": 0}}},
+                                    "FEREDJ": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}},
+                                     "L2-ACAD-S4-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 0}}},
+                                    "IBELAIDEN": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}},
+                                    "BOUCHEKIR Redouane": {"L1-S2-7": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}}
+                                      }
+	                    },
+						{ "dic": {"GUERAICHI": {"L1-S2-1": {"ALG02": {"COUR": 1, "TD": 4, "TP": 0}}},
+                                    "FEREDJ": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}},
+                                     "L2-ACAD-S4-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 0}}},
+                                    "IBELAIDEN": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}},
+                                    "BOUCHEKIR Redouane": {"L1-S2-7": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}}
+
+                                    },
+	                      "value":{"GUERAICHI": {"L2-S2-1": {"THG": {"COUR": 1, "TD": 4, "TP": 0}}}},  
+						 
+		                  "result":{"GUERAICHI": {"L1-S2-1": {"ALG02": {"COUR": 1, "TD": 4, "TP": 0}},
+                                    "L2-S2-1": {"THG": {"COUR": 1, "TD": 4, "TP": 0}}},
+                                     "FEREDJ": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}},
+                                     "L2-ACAD-S4-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 0}}},
+                                     "IBELAIDEN": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}},
+                                   "BOUCHEKIR Redouane": {"L1-S2-7": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}}
+                                    }
+ 
+                         },
+						{ "dic": {"GUERAICHI": {"L1-S2-1": {"ALG02": {"COUR": 1, "TD": 4, "TP": 0}},
+                                    "L2-S2-1": {"THG": {"COUR": 1, "TD": 4, "TP": 0}}},
+                                     "FEREDJ": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}},
+                                     "L2-ACAD-S4-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 0}}},
+                                     "IBELAIDEN": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}},
+                                   "BOUCHEKIR Redouane": {"L1-S2-7": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}}
+                                    },
+	                      "value":{"GUERAICHI": {"L1-S2-1": {"ALG02": {"COUR": 1, "TD": 4, "TP": 10}}}},  
+						 
+		                  "result":{"GUERAICHI": {"L1-S2-1": {"ALG02": {"COUR": 2, "TD": 8, "TP": 10}},
+                                    "L2-S2-1": {"THG": {"COUR": 1, "TD": 4, "TP": 0}}},
+                                     "FEREDJ": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}},
+                                     "L2-ACAD-S4-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 0}}},
+                                     "IBELAIDEN": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}},
+                                    "BOUCHEKIR Redouane": {"L1-S2-7": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}}}
+
+ 
+                         }],
+    "test_form_final":[
+	                    {"value":[
+						   [        {"Section": "L1-s1", "ModulE": "ALGO01", "Cour": "GUERAICHI", "TD": "GUERAICHI", "TP": "FEREDJ"},
+                                   {"Section": "L2-s1", "ModulE": "POO", "Cour": "BOUKHDOUMA", "TD": "BOUKHDOUMA", "TP": "BOUZIAN"}
+                            ],
+						    [
+                                   {"Section": "L3-s2", "ModulE": "PROG.WEB", "Cour": "GUERAICHI", "TD": "AIDIR", "TP": "BENKHAOUHA"},
+                                      {"Section": "M1-s2", "ModulE": "ARBD", "Cour": "ALIMAZIGHI", "TD": "KERKAD", "TP": "KERKAD"}
+                             ]
+			                      
+								  ],
+						 
+							"result":{ "GUERAICHI": {"L1-s1": {"ALGO01": {"COUR": 1, "TD": 1, "TP": 0}}, "L3-s2": {"PROG.WEB": {"COUR": 1, "TD": 0, "TP": 0}}},
+                                        "FEREDJ": {"L1-s1": {"ALGO01": {"COUR": 0, "TD": 0, "TP": 1}}},
+                                           "BOUKHDOUMA": {"L2-s1": {"POO": {"COUR": 1, "TD": 1, "TP": 0}}},
+                                          "BOUZIAN": {"L2-s1": {"POO": {"COUR": 0, "TD": 0, "TP": 1}}},
+                                           "AIDIR": {"L3-s2": {"PROG.WEB": {"COUR": 0, "TD": 1, "TP": 0}}},
+	                                            "BENKHAOUHA": {"L3-s2": {"PROG.WEB": {"COUR": 0, "TD": 0, "TP": 1}}},
+	                                     "ALIMAZIGHI": {"M1-s2": {"ARBD": {"COUR": 1, "TD": 0, "TP": 0}}},
+	                                     "KERKAD": {"M1-s2": {"ARBD": {"COUR": 0, "TD": 1, "TP": 1}}}
+                                            }	  
+							
+						}],
+	"test_ligne_modul":[{"value":{"Section": "L1-S2-1", "Module": "ALG02 : Programmation et Structures\nde Données", "Cours": "2", "TD": "1","TP": "1"} ,
+		                    "result":{"ALG02": {"COUR": "2", "TD": "1", "TP": "1"}}
+                         	}
+	
+	               ],
+	"test_form_modul":[
+	                           { "value":"csv\\modul.csv", 
+                                    "result":{"ALG02": {"COUR": "2", "TD": "1", "TP": "1"}, "SM": {"COUR": "1", "TD": "1", "TP": "0"}, "PWEB": {"COUR": "1", "TD": "0", "TP": "1"}, "GL3": {"COUR": "1", "TD": "1", "TP": "1"}, "TechniquesdeRédactionetRechercheDocumentaire": {"COUR": "1", "TD": "0", "TP": "0"}, "Anglais": {"COUR": "1", "TD": "0", "TP": "0"}}
+
+							   }
+	                  ]              	
+}

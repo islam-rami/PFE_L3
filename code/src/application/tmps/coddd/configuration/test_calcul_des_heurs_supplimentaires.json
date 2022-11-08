@@ -1,0 +1,156 @@
+{
+	
+	
+	"test_calcul_nbr_td1":[
+	{    "value":{"L1-S1-1": {"ALG02": {"COUR": 0, "TD": 3, "TP": 2}},
+         "L2-ACAD-S3-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+         "L2-ACAD-S5-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+         "L3-ACAD-S2-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}}
+         },
+		"result":9
+		
+	},
+	{
+		"value":{"L1-S4-1": {"ALG02": {"COUR": 0, "TD": 3, "TP": 2}},
+         "L2-ACAD-S6-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+         "L3-ACAD-S2-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}}
+         },
+		 "result":0
+	}
+	                          ],
+	"test_calcul_nbr_td2":[ { "value": {"L1-S1-1": {"ALG02": {"COUR": 0, "TD": 3, "TP": 2}},
+                                  "L2-ACAD-S3-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+                                   "L2-ACAD-S5-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+                                   "L3-ACAD-S2-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}}
+                                     },
+	                            "result": 3},
+								
+								{ "value":{"L1-S4-1": {"ALG02": {"COUR": 0, "TD": 3, "TP": 2}},
+                                   "L2-ACAD-S6-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+                                   "L3-ACAD-S2-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}}
+                                         },
+	                            "result": 9}
+	
+	                      ],
+	"test_calcul_nbr_tp1":[ { "value":		 
+                                 {"L1-S1-1": {"ALG02": {"COUR": 0, "TD": 3, "TP": 2}},
+                                   "L2-ACAD-S3-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+                                    "L2-ACAD-S5-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 2}},
+                                     "L3-ACAD-S2-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}}
+                                      } ,
+	                            "result": 5
+	                         },
+							 
+							 
+							 { "value":		 
+                                 {"L1-S4-1": {"ALG02": {"COUR": 0, "TD": 3, "TP": 2}},
+                                    "L2-ACAD-S6-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+                                        "L3-ACAD-S2-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}}
+                                       } ,
+	                            "result": 0
+	                         }
+	
+	                      ],
+	"test_calcul_nbr_tp2":[  {  "value": {"L1-S1-1": {"ALG02": {"COUR": 0, "TD": 3, "TP": 2}},
+                                           "L2-ACAD-S3-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+                                         "L2-ACAD-S5-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 2}},
+                                         "L3-ACAD-S2-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}}
+                                         },
+									"result":1	 
+	                            },
+								{
+									"value":{"L1-S4-1": {"ALG02": {"COUR": 0, "TD": 3, "TP": 2}},
+                                      "L2-ACAD-S6-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+                                      "L3-ACAD-S2-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}}
+                                          },
+									"result":4  
+								}
+                           ],
+    "test_calcul_nbr_cour1":[    { "value" : {"L1-S1-1": {"ALG02": {"COUR": 0, "TD": 3, "TP": 2}},
+                                 "L2-ACAD-S3-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+                                    "L2-ACAD-S5-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 2}},
+                                            "L3-ACAD-S2-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}}
+                                                },
+								   "result":2
+	                               },
+								   {"value" :{"L1-S4-1": {"ALG02": {"COUR": 0, "TD": 3, "TP": 2}},
+                                             "L2-ACAD-S6-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+                                               "L3-ACAD-S2-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}}
+                                                  },
+									"result":0			  
+								   }									   
+					         ],
+	"test_calcul_nbr_cour2":[   { "value" :{"L1-S1-1":       {"ALG02": {"COUR": 0, "TD": 3, "TP": 2}},
+                                          "L2-ACAD-S3-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+                                             "L2-ACAD-S5-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 2}},
+                                          "L3-ACAD-S2-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}}
+                                            },
+	                              "result": 1  
+                              	},
+								{ "value" : {"L1-S4-1": {"ALG02": {"COUR": 0, "TD": 3, "TP": 2}},
+                                             "L2-ACAD-S6-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}},
+                                            "L3-ACAD-S5-B": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 1}}
+                                       },
+								"result":1
+								}
+                             ],
+	"test_volum_cour1":[{ "value":{"ENSEINANT": "FEREDJ", "COUR1": 1, "COUR2": 2, "TD1": 3,"TD2": 4, "TP1": 2,"TP2": 5},
+		                   "result":3
+	                     }
+                        ],
+    "test_volum_cour2":[ { "value":{"ENSEINANT": "FEREDJ", "COUR1": 1, "COUR2": 2, "TD1": 3,"TD2": 4, "TP1": 2,"TP2": 5},
+	                        "result":6
+	                      }
+                       ],
+    "test_volum_td1":[{ "value": {"ENSEINANT": "FEREDJ", "COUR1": 1, "COUR2": 2, "TD1": 4,"TD2": 4, "TP1": 2,"TP2": 5},
+	                     "result":8
+	                    }
+	                 ],
+    "test_volum_td2":[   { "value": {"ENSEINANT": "FEREDJ", "COUR1": 1, "COUR2": 2, "TD1": 4,"TD2": 6, "TP1": 2,"TP2": 5},
+	                       "result" :12
+	                        }
+                      ],
+    "test_volum_tp1" :[{ "value":{"ENSEINANT": "FEREDJ", "COUR1": 1, "COUR2": 2, "TD1": 4,"TD2": 6, "TP1": 2,"TP2": 5},
+	                    "result" :3 
+	                    }
+                    ]	,
+	"test_volum_tp2":[ { "value":{"ENSEINANT": "FEREDJ", "COUR1": 1, "COUR2": 2, "TD1": 4,"TD2": 6, "TP1": 2,"TP2": 5},
+	                      "result": 7.5
+							  }
+                     ],
+    "test_total_s1":[  {  "value": {"ENSEINANT": "FEREDJ", "COUR1": 1, "COUR2": 2, "TD1": 4, "TD2": 6, "TP1": 2, "TP2": 5,"VOLUM_COUR_1":3,
+                              "VOLUM_COUR_2":6, "VOLUM_TD_1":8,"VOLUM_TD_2":12,"VOLUM_TP_1":3,"VOLUM_TP_2":7.5},
+		                   "result":14
+	                         }
+                     ],
+    "test_total_s2":[ {  "value":{"ENSEINANT": "FEREDJ", "COUR1": 1, "COUR2": 2, "TD1": 4, "TD2": 6, "TP1": 2, "TP2": 5,"VOLUM_COUR_1":3,
+                                "VOLUM_COUR_2":6, "VOLUM_TD_1":8,"VOLUM_TD_2":12,"VOLUM_TP_1":3,"VOLUM_TP_2":7.5},    
+							"result":25.5	
+	                   }
+                     ],
+    "test_calculate":[  { "value":{"GUERAICHI": {"L1-S2-1": {"ALG02": {"COUR": 1, "TD": 4, "TP": 0}}},
+                            "FEREDJ": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}},
+                            "L2-ACAD-S4-C": {"ARCHIT": {"COUR": 1, "TD": 3, "TP": 0}}},
+                            "IBELAIDEN": {"L1-S2-1": {"ALG02": {"COUR": 0, "TD": 0, "TP": 2}}},
+                            "KHETTAR": {"L1-S2-2": {"ALG02": {"COUR": 1, "TD": 4, "TP": 0}}},
+                            "MEHDI": {"L1-S2-2": {"ALG02": {"COUR": 0, "TD": 0, "TP": 4}},
+                            "L1-S2-9": {"ALG02": {"COUR": 100, "TD": 0, "TP": 4}}},
+                            "BABA ALI R.": {"L1-S2-3": {"ALG02": {"COUR": 1, "TD": 0, "TP": 4}}}
+                                    }, 
+                             "result":[
+                                    {"ENSEIGNANT": "GUERAICHI", "COUR1": 0, "COUR2": 1, "TD1": 0, "TD2": 4, "TP1": 0, "TP2": 0, "VOLUM_COUR_1": 0, "VOLUM_COUR_2": 3, "VOLUM_TD_1": 0, "VOLUM_TD_2": 8, "VOLUM_TP_1": 0.0, "VOLUM_TP_2": 0.0, "TOTAL_S1": 0.0, "TOTAL_S2": 11.0, "HEURES_SUPP_TOTALE": 0, "HEURE_SUPP_S1": 0, "HEURE_SUPP_S2": 0, "HEURE_SUPP_S1_max": 0, "HEURE_SUPP_S2_max": 0, "RELIQUAT": 0},
+                                    {"ENSEIGNANT": "FEREDJ", "COUR1": 0, "COUR2": 1, "TD1": 0, "TD2": 3, "TP1": 0, "TP2": 2, "VOLUM_COUR_1": 0, "VOLUM_COUR_2": 3, "VOLUM_TD_1": 0, "VOLUM_TD_2": 6, "VOLUM_TP_1": 0.0, "VOLUM_TP_2": 3.0, "TOTAL_S1": 0.0, "TOTAL_S2": 12.0, "HEURES_SUPP_TOTALE": 0, "HEURE_SUPP_S1": 0, "HEURE_SUPP_S2": 0, "HEURE_SUPP_S1_max": 0, "HEURE_SUPP_S2_max": 0, "RELIQUAT": 0},
+                                    {"ENSEIGNANT": "IBELAIDEN", "COUR1": 0, "COUR2": 0, "TD1": 0, "TD2": 0, "TP1": 0, "TP2": 2, "VOLUM_COUR_1": 0, "VOLUM_COUR_2": 0, "VOLUM_TD_1": 0, "VOLUM_TD_2": 0, "VOLUM_TP_1": 0.0, "VOLUM_TP_2": 3.0, "TOTAL_S1": 0.0, "TOTAL_S2": 3.0, "HEURES_SUPP_TOTALE": 0, "HEURE_SUPP_S1": 0, "HEURE_SUPP_S2": 0, "HEURE_SUPP_S1_max": 0, "HEURE_SUPP_S2_max": 0, "RELIQUAT": 0}, 
+                                    {"ENSEIGNANT": "KHETTAR", "COUR1": 0, "COUR2": 1, "TD1": 0, "TD2": 4, "TP1": 0, "TP2": 0, "VOLUM_COUR_1": 0, "VOLUM_COUR_2": 3, "VOLUM_TD_1": 0, "VOLUM_TD_2": 8, "VOLUM_TP_1": 0.0, "VOLUM_TP_2": 0.0, "TOTAL_S1": 0.0, "TOTAL_S2": 11.0, "HEURES_SUPP_TOTALE": 0, "HEURE_SUPP_S1": 0, "HEURE_SUPP_S2": 0, "HEURE_SUPP_S1_max": 0, "HEURE_SUPP_S2_max": 0, "RELIQUAT": 0},
+                                    {"ENSEIGNANT": "MEHDI", "COUR1": 0, "COUR2": 100, "TD1": 0, "TD2": 0, "TP1": 0, "TP2": 8, "VOLUM_COUR_1": 0, "VOLUM_COUR_2": 300, "VOLUM_TD_1": 0, "VOLUM_TD_2": 0, "VOLUM_TP_1": 0.0, "VOLUM_TP_2": 12.0, "TOTAL_S1": 0.0, "TOTAL_S2": 312.0, "HEURES_SUPP_TOTALE": 288.0, "HEURE_SUPP_S1": 0, "HEURE_SUPP_S2": 288.0, "HEURE_SUPP_S1_max": 0, "HEURE_SUPP_S2_max": 8, "RELIQUAT": 280.0},
+                                    {"ENSEIGNANT": "BABA ALI R.", "COUR1": 0, "COUR2": 1, "TD1": 0, "TD2": 0, "TP1": 0, "TP2": 4, "VOLUM_COUR_1": 0, "VOLUM_COUR_2": 3, "VOLUM_TD_1": 0, "VOLUM_TD_2": 0, "VOLUM_TP_1": 0.0, "VOLUM_TP_2": 6.0, "TOTAL_S1": 0.0, "TOTAL_S2": 9.0, "HEURES_SUPP_TOTALE": 0, "HEURE_SUPP_S1": 0, "HEURE_SUPP_S2": 0, "HEURE_SUPP_S1_max": 0, "HEURE_SUPP_S2_max": 0, "RELIQUAT": 0}
+                                         ]
+		   }
+                         ]	
+}
+
+
+
+
+
+

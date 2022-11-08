@@ -1,0 +1,177 @@
+Section,Module,Cours,TD,TP
+L1-S2-1,"ALG02 : Programmation et Structures
+de Données",2.0,1.0,1.0
+L1-S2-2,"ALG02 : Programmation et Structures
+de Données",2.0,1.0,1.0
+L1-S2-3,"ALG02 : Programmation et Structures
+de Données",2.0,1.0,1.0
+L1-S2-4,"ALG02 : Programmation et Structures
+de Données",2.0,1.0,1.0
+L1-S2-5,"ALG02 : Programmation et Structures
+de Données",2.0,1.0,1.0
+L1-S2-6,"ALG02 : Programmation et Structures
+de Données",2.0,1.0,1.0
+L1-S2-7,"ALG02 : Programmation et Structures
+de Données",2.0,1.0,1.0
+L1-S2-8,"ALG02 : Programmation et Structures
+de Données",2.0,1.0,1.0
+L1-S2-9,"ALG02 : Programmation et Structures
+de Données",2.0,1.0,1.0
+L1-S2-10,"ALG02 : Programmation et Structures
+de Données",2.0,1.0,1.0
+L1-S2-11,"ALG02 : Programmation et Structures
+de Données",2.0,1.0,1.0
+L1-S2-1,SM : Structure Machine,1.0,1.0,0.0
+L1-S2-2,SM : Structure Machine,1.0,1.0,0.0
+L1-S2-3,SM : Structure Machine,1.0,1.0,0.0
+L1-S2-4,SM : Structure Machine,1.0,1.0,0.0
+L1-S2-5,SM : Structure Machine,1.0,1.0,0.0
+L1-S2-6,SM : Structure Machine,1.0,1.0,0.0
+L1-S2-7,SM : Structure Machine,1.0,1.0,0.0
+L1-S2-8,SM : Structure Machine,1.0,1.0,0.0
+L1-S2-9,SM : Structure Machine,1.0,1.0,0.0
+L1-S2-10,SM : Structure Machine,1.0,1.0,0.0
+L1-S2-11,SM : Structure Machine,1.0,1.0,0.0
+L1-S2-1,Prg Fonct,1.0,0.0,1.0
+L1-S2-2,Prg Fonct,1.0,0.0,1.0
+L1-S2-3,Prg Fonct,1.0,0.0,1.0
+L1-S2-4,Prg Fonct,1.0,0.0,1.0
+L1-S2-5,Prg Fonct,1.0,0.0,1.0
+L1-S2-6,Prg Fonct,1.0,0.0,1.0
+L1-S2-7,Prg Fonct,1.0,0.0,1.0
+L1-S2-8,Prg Fonct,1.0,0.0,1.0
+L1-S2-9,Prg Fonct,1.0,0.0,1.0
+L1-S2-10,Prg Fonct,1.0,0.0,1.0
+L1-S2-11,Prg Fonct,1.0,0.0,1.0
+L2-ACAD-S4-A,POO : Programmation Orientée Objet,1.0,1.0,1.0
+L2-ACAD-S4-A,ARCHIT : Architecture des Ordinateurs II,1.0,1.0,1.0
+L2-ACAD-S4-A,THL : Théorie des langages,1.0,1.0,0.0
+L2-ACAD-S4-A,SYS01 : Système d’exploitation I,1.0,1.0,1.0
+L2-ACAD-S4-A,PYHTON,1.0,0.0,0.0
+L2-ACAD-S4-A,BD : Bases de Données,1.0,1.0,1.0
+L2-ACAD-S4-A,Anglais,1.0,0.0,0.0
+L2-ACAD-S4-B,POO : Programmation Orientée Objet,1.0,1.0,1.0
+L2-ACAD-S4-B,ARCHIT : Architecture des Ordinateurs II,1.0,1.0,1.0
+L2-ACAD-S4-B,THL : Théorie des langages,1.0,1.0,0.0
+L2-ACAD-S4-B,SYS01 : Système d’exploitation I,1.0,1.0,1.0
+L2-ACAD-S4-B,PYHTON,1.0,0.0,0.0
+L2-ACAD-S4-B,BD : Bases de Données,1.0,1.0,1.0
+L2-ACAD-S4-B,Anglais,1.0,0.0,0.0
+L2-ACAD-S4-C,POO : Programmation Orientée Objet,1.0,1.0,1.0
+L2-ACAD-S4-C,ARCHIT : Architecture des Ordinateurs II,1.0,1.0,1.0
+L2-ACAD-S4-C,THL : Théorie des langages,1.0,1.0,0.0
+L2-ACAD-S4-C,SYS01 : Système d’exploitation I,1.0,1.0,1.0
+L2-ACAD-S4-C,PYHTON,1.0,0.0,0.0
+L2-ACAD-S4-C,BD : Bases de Données,1.0,1.0,1.0
+L2-ACAD-S4-C,Anglais,1.0,0.0,0.0
+L2-ISIL-S4-A,POO : Programmation Orientée Objet,1.0,1.0,1.0
+L2-ISIL-S4-A,SYS : Système d’Exploitation,2.0,1.0,1.0
+L2-ISIL-S4-A,BD1 : Conception et Langage,2.0,1.0,1.0
+L2-ISIL-S4-A,GL1 : Génie Logiciel,1.0,1.0,1.0
+L2-ISIL-S4-A,THG : Théorie des Graphes,1.0,1.0,0.0
+L2-ISIL-S4-A,ORAD : Outils RAD,1.0,0.0,1.0
+L2-ISIL-S4-A,Anglais,1.0,0.0,0.0
+L2-ISIL-S4-B,POO : Programmation Orientée Objet,1.0,1.0,1.0
+L2-ISIL-S4-B,SYS : Système d’Exploitation,2.0,1.0,1.0
+L2-ISIL-S4-B,BD1 : Conception et Langage,2.0,1.0,1.0
+L2-ISIL-S4-B,GL1 : Génie Logiciel,1.0,1.0,1.0
+L2-ISIL-S4-B,THG : Théorie des Graphes,1.0,1.0,0.0
+L2-ISIL-S4-B,ORAD : Outils RAD,1.0,0.0,1.0
+L2-ISIL-S4-B,Anglais,1.0,0.0,0.0
+L2-GTR-S4,TCP/IP : Protocoles TCP-IP,1.0,1.0,1.0
+L2-GTR-S4,"Admin expl serv : Administration et 
+exploitation des Serveurs",1.0,0.0,1.0
+L2-GTR-S4,INIT WEB : Initiation Web,1.0,0.0,1.0
+L2-GTR-S4,"MICRO.PR : Architecture des systèmes 
+et microprocesseurs",1.0,1.0,1.0
+L2-GTR-S4,ANTHENE : Antennes et propagation,1.0,1.0,1.0
+L2-GTR-S4,TRAIT.SIG : Traitement du Signal,1.0,1.0,1.0
+L2-GTR-S4,N.I.R : Normes et interconnexions réseaux,1.0,0.0,0.0
+L2-GTR-S4,Anglais,1.0,0.0,0.0
+L3-ACAD-S6-A,"Prog. WEB : Programmation
+Web",1.0,0.0,1.0
+L3-ACAD-S6-A,AdmClient/Serv,1.0,0.0,1.0
+L3-ACAD-S6-A,Doc. Struct,1.0,0.0,0.0
+L3-ACAD-S6-A,WEB SEM,1.0,0.0,1.0
+L3-ACAD-S6-B,"Prog. WEB : Programmation
+Web",1.0,0.0,1.0
+L3-ISIL-S6-A,"PWEB : Programmation
+Web",1.0,0.0,1.0
+L3-ISIL-S6-A,GL3 : Génie Logiciel ,1.0,1.0,1.0
+L3-ISIL-S6-B,"PWEB : Programmation
+Web",1.0,0.0,1.0
+L3-ISIL-S6-B,GL3 : Génie Logiciel ,1.0,1.0,1.0
+L3-GTR-S6,"QoS SYST INFO : Qualité de service 
+des systèmes informatiques",1.0,1.0,0.0
+L3-GTR-S6,SECURITE : Sécurité des réseaux,2.0,0.0,1.0
+L3-GTR-S6,BDD : Bases des données,1.0,0.0,1.0
+M1-SII-S2,"RES.NEUR : Réseaux de neurones et 
+apprentissage automatique",1.0,1.0,0.0
+M1-SII-S2,"METHA.H : Méta-heuristiques et 
+Algorithmes évolutionnaires",1.0,0.0,1.0
+M1-SII-S2,"REP.CON : Représentation de connaissances 
+et raisonnement 1",1.0,1.0,0.0
+M1-SII-S2,T.AGENT : La technologie des agents,1.0,1.0,1.0
+M1-SII-S2,"COM.ELECT : Commerce Electronique 
+et Services Web",1.0,1.0,0.0
+M1-SII-S2,BDA : Bases de Données Avancées,1.0,0.0,1.0
+M1-SII-S2,SECURITE : Sécurité Informatique,1.0,1.0,0.0
+M1-IL-S2,BDAV : Bases de Données Avancées ,1.0,1.0,0.0
+M1-IL-S2,"MODAL : Modélisation et Architectures 
+logicielles ",1.0,1.0,1.0
+M1-IL-S2,"IA1 : Fondements de l’Intelligence 
+Artificielle 1",1.0,1.0,0.0
+M1-IL-S2,SECU : Sécurité Informatique,1.0,1.0,0.0
+M1-IL-S2,SM : Systèmes Multimédia,1.0,1.0,0.0
+M1-IL-S2,COMPIL2 : Compilation 2,1.0,1.0,1.0
+M1-IL-S2,Anglais,1.0,0.0,0.0
+M1-RSD-S2,ADM/C/S : Administration Clients/Serveurs,1.0,0.0,1.0
+M1-RSD-S2,MULTIMEDEA : Systèmes Multimédia,1.0,0.0,1.0
+M1-RSD-S2,"ALGO.REP : Algorithmique et Contrôle des
+Systèmes Distribués ",1.0,1.0,1.0
+M1-RSD-S2,VERIF.FORM : Vérification formelle ,1.0,1.0,0.0
+M1-RSD-S2,SECURITE : Sécurité informatique,1.0,1.0,0.0
+M1-RSD-S2,"TECH.OPT :  Techniques d’optimisation
+pour les réseaux ",1.0,1.0,0.0
+M1-RSD-S2,ANGLAIS,1.0,0.0,0.0
+M1-SSI-S2,CRYS : Cryptographie et sécurité,1.0,1.0,0.0
+M1-SSI-S2,PCAC : Politiques de Contrôle d‟accès,1.0,1.0,0.0
+M1-SSI-S2,"ATBD : Administration et tuning de bases 
+de données",1.0,0.0,1.0
+M1-SSI-S2,SERE : Sécurité réseaux,1.0,0.0,1.0
+M1-SSI-S2,SESY : Sécurité système,1.0,0.0,1.0
+M1-SSI-S2,SERF : Sécurité des Réseaux sans fil,1.0,0.0,1.0
+M1-SSI-S2,ALRE : Algorithmique répartie,1.0,1.0,0.0
+M1-SSI-S2,"SFFL : Sûreté de fonctionnement et 
+fiabilité du logiciel",1.0,1.0,0.0
+M1-IV-S2,FD : Fouille de données,1.0,0.0,1.0
+M1-IV-S2,TJ : Théorie des jeux,2.0,1.0,0.0
+M1-IV-S2,PR: Programmation réseau,1.0,0.0,1.0
+M1-IV-S2,"CPJV : Conception et Programmation 
+de jeux vidéo",1.0,0.0,1.0
+M1-IV-S2,AD : Analyse de données,1.0,1.0,0.0
+M1-IV-S2,"CGOC : COMPILATION: Génération et 
+Optimisation Code",1.0,1.0,1.0
+M1-IV-S2,ANGLAIS,1.0,0.0,0.0
+M1-MIND-S2,ARBD : Architecture des BD,1.0,0.0,1.0
+M1-MIND-S2,ENDO : Entrepôts de données,1.0,0.0,1.0
+M1-MIND-S2,TCA : Théorie des codes et application,1.0,1.0,0.0
+M1-MIND-S2,ANAD: Analyse de données,1.0,1.0,0.0
+M1-MIND-S2,SIG et EDG,1.0,1.0,0.0
+M1-MIND-S2,ETUC : Etude de complexité,1.0,1.0,0.0
+M1-MIND-S2,AMP : Agilité dans le management de projet,1.0,1.0,0.0
+M1-MIND-S2,ANGLAIS,1.0,0.0,0.0
+M1_BioInf-S2,BIOALGO : Bio-Algorithmique,1.0,1.0,1.0
+M1_BioInf-S2,"BDADB : Base de Données Avancées et 
+Données Biologiques",1.0,1.0,1.0
+M1_BioInf-S2,"EIDM : Entreposage et Intégration de 
+Données Massives",1.0,0.0,1.0
+M1_BioInf-S2,EOC : Eléments d’Optimisation Combinatoire,1.0,1.0,0.0
+M1_BioInf-S2,FD1 : Fouille de Données 1,1.0,0.0,1.0
+M1_BioInf-S2,TAI : Traitement et Analyse d’images,1.0,0.0,1.0
+M1_BioInf-S2,"Techniques de Rédaction et Recherche 
+Documentaire",1.0,0.0,0.0
+M1_BioInf-S2,Anglais,1.0,0.0,0.0
+,,,,
+,,,,
+-,,,,
